@@ -1,0 +1,12 @@
+/* Webfont: Uthman-Regular */@font-face {
+    font-family: 'Uthman';
+    src: url('Uthman-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Uthman-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Uthman-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Uthman-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Uthman-Regular.svg#Uthman-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

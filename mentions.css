@@ -1,0 +1,47 @@
+body{
+	background-color: #E5E5E5;
+	font-family: 'Work Sans';
+}
+h2 {
+	color: #38ACB2;
+}
+h3 {
+	color: #174949;
+}
+a {
+	text-decoration: none;
+	color: grey;
+	font-weight: bold;
+}
+.ligne{
+	background-color: #214907;
+}
+header h1{
+	color: #174949;
+	background-color: #f2f2f2	;
+	border-radius: 2px;
+	border: 3px solid #174949;
+}
+header{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+    align-items: center;
+    position: relative;
+	padding: 20px 0px;
+}
+.ligne{
+	position: absolute;
+	top: 50%;
+	height: 3px;
+	width: 100vw;
+	background-color: #174949;
+}
+header h1{
+	font-family: 'CODE-Bold';
+	font-size:1.2rem;
+	color: #174949;
+	text-align: center;
+	z-index: 5;
+	padding: 10px;
+}
